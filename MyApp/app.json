@@ -1,0 +1,20 @@
+{
+  "id": "0f0dca86-bb7d-4607-9ef7-a696433b16fb",
+  "name": "MyApp",
+  "version": "1.0.0.0",
+  "publisher": "Freddy",
+  "dependencies": [],
+  "application": "22.0.0.0",
+  "runtime": "10.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "includeSourceInSymbolFile": true,
+    "allowDownloadingSource": true
+  }
+}
